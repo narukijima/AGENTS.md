@@ -79,7 +79,7 @@
 
 ## 個人発信の制作・配信（2026-09-13）
 
-日本・日本語向けの無料Daily記事と有料の週刊レボリューションに統一する。本文の中心媒体はnote・Substack日本語版・公式サイト。SNSは記事のシェアだけ（X/Threads/Facebook→note、Bluesky→Substack）。Record本文は非公開、タイトル・目次・出典URLを維持する。個人発信の方針であり、製品・IP・ブランドの別事業とは区別する。
+日本・日本語向けの無料Daily Revolution記事と有料のWeekly Revolutionに統一する。本文の中心媒体はnote・Substack日本語版・公式サイト。SNSは記事のシェアだけ（X/Threads/Facebook→note、Bluesky→Substack）。Record本文は非公開、タイトル・目次・出典URLを維持する。個人発信の方針であり、製品・IP・ブランドの別事業とは区別する。
 
 需要調査と制作は既存ChatGPTのクラウド予定タスク本体、独立審査・配信・実測・日次レポートはローカルClaude Code。Claude native Memoryの日次インポートはClaudeチャット側のクラウドルーティン、ChatGPTの取込は専用チャット内のKnowledge差分として継続し、永続Memoryへの保存とは扱わない。制作で子へ本文を委ねない。Coworkは廃止し、Claude Codeクラウドへ制作を移さない。Driveは成果物の受渡しでありMemoryの代用品にしない。
 
