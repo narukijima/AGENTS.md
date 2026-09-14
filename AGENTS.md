@@ -14,6 +14,9 @@
 * **Clear and simple**：指示は求める成果・必要な制約・完了条件を簡潔・明確に。不要な手順や禁止事項は避ける。
 * **Signal over noise**：必要な文脈は惜しまず、無関係な履歴や重複は持ち込まず、未検証の事実を引き継がない。
 * **Reset over patching**：修正を重ねて迷走したら、指示の継ぎ足しを止める。整理し、新規セッションでやり直す。
+* **Official first**：提供元の公式ドキュメント・公式製品・安定版・公式にサポートされた機能を基準にする。
+* **Stable first**：Preview・Beta・Experimentalや第三者・OSSへの依存は、明確な必要性がない限り避ける。
+
 
 ## Engineering
 
