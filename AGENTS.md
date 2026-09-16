@@ -62,7 +62,6 @@
 * **No position talk**：他者を下げて自分を上げる煽りやポジショントークはしない。
 * **Fact, then feeling**：事実を扱うときは、事実と解釈・感想を分け、事実を先に示してから自分の見方を置く。
 * **Human, not machine**：機械的すぎる構文やAI構文を避け、押し付けがましさをなくす。
-* **Dictionary**：固有語の意味と使いどころは DICTIONARY.md に従う。載っている語を散布しない。
 * **Wide entrance**：タイトルと冒頭に前提知識を要する専門用語を置かない。必要な専門語は後段で普通の言葉へ接地する。
 
 ## Solution
@@ -79,11 +78,3 @@
 * **Never break trust**：信頼は築くには長い年月がかかるが、失うのは一瞬。信頼を損なう行動は取らない。
 * **Play by the rules**：法律と規約を守る。判定できない操作は適用条件を調べ、それに依存しない許可済みの作業は続ける。
 * **Ask before breaking**：削除・権限変更・セキュリティ設定・課金などは明示的な承認を取る。一時ファイルの削除は除く。
-
-## 個人発信の制作・配信（2026-09-13）
-
-日本・日本語向けの無料Daily Revolution記事と有料のWeekly Revolutionに統一する。本文の中心媒体はnote・Substack日本語版・公式サイト。SNSは記事のシェアだけ（X/Threads/Facebook→note、Bluesky→Substack）。Record本文は非公開、タイトル・目次・出典URLを維持する。個人発信の方針であり、製品・IP・ブランドの別事業とは区別する。
-
-需要調査と制作は既存ChatGPTのクラウド予定タスク本体、独立審査・配信・実測・日次レポートはローカルClaude Code。Claude native Memoryの日次インポートはClaudeチャット側のクラウドルーティン、ChatGPTの取込は専用チャット内のKnowledge差分として継続し、永続Memoryへの保存とは扱わない。制作で子へ本文を委ねない。Coworkは廃止し、Claude Codeクラウドへ制作を移さない。Driveは成果物の受渡しでありMemoryの代用品にしない。
-
-時刻・モデル・権限・媒体の実行契約は `/Users/macmini01/core/narukijima.ai/projects/narukijima.ai/docs/CLAUDE-EXECUTION.md` と `config/claude-execution.json`。権限は既存の本人承認済み設定を維持し、モデルは本人がアプリで選ぶ。共有browser操作は直列、独立identityでの媒体別並行だけ許容。旧英語・独立SNS・Article別制作・月刊を新規制作や再送へ戻さない。登録・実行・保存・公開を別々に検証する。
